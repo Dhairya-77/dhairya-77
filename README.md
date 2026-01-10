@@ -15,6 +15,7 @@
 
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![React](https://skillicons.dev/icons?i=react)
+![React](https://skillicons.dev/icons?i=django)
 
 ---
 
@@ -25,6 +26,7 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Kotlin](https://skillicons.dev/icons?i=dart)
 
 ---
 
